@@ -15,7 +15,9 @@ export function DashboardLayout({ children, title }: DashboardLayoutProps) {
       {/* Main Content Area */}
       <div className="ml-64 mt-0">
         <Header title="Techno India Group" />
+  
 
+  
         {/* Page Content */}
         <main className="p-6">{children}</main>
       </div>

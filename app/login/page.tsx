@@ -70,6 +70,8 @@ export default function LoginPage() {
         />
       </div>
 
+
+          
       {/* Login Container */}
       <div className="relative z-20 w-full max-w-md px-4 flex justify-center mt-4">
         <Card className="bg-white rounded-lg shadow-2xl w-full">
